@@ -1,0 +1,21 @@
+{
+  "name": "neutral",
+  "displayName": "neutral",
+  "description": "Dark and minimal color theme inspired by the feeling of neutral",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neutral",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neutral-color-theme.json"
+      }
+    ]
+  }
+}
