@@ -1,7 +1,7 @@
 {
-  "name": "neutral",
-  "displayName": "neutral",
-  "description": "Dark and minimal color theme inspired by the feeling of neutral",
+  "name": "cosmos",
+  "displayName": "Cosmos",
+  "description": "Dark and minimal color theme inspired by the feeling of Cosmos",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.83.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Neutral",
+        "label": "Cosmos",
         "uiTheme": "vs-dark",
-        "path": "./themes/Neutral-color-theme.json"
+        "path": "./themes/Cosmos-color-theme.json"
       }
     ]
   }

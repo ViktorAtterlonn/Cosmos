@@ -1,4 +1,4 @@
-# Neutral README
+# Cosmos theme
 
 ## Working with Markdown
 
