@@ -1,5 +1,6 @@
 {
   "name": "Cosmos",
+  "type": "dark",
   "colors": {
     // Sidebar
     "activityBar.activeBorder": "#aaa",
@@ -211,6 +212,18 @@
       ],
       "settings": {
         "foreground": "#88726a",
+        "fontStyle": "",
+      }
+    },
+    {
+      "name": "African Violet",
+      "scope": [
+        "entity.name.function",
+        "variable.function",
+        "support.function",
+      ],
+      "settings": {
+        "foreground": "#d4b1a4",
         "fontStyle": "underline",
       }
     },

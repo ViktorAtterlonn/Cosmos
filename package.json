@@ -1,10 +1,10 @@
 {
-  "name": "cosmos",
+  "name": "cosmos-color-theme",
   "displayName": "Cosmos",
   "description": "Dark and minimal color theme inspired by the feeling of Cosmos",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.83.0"
+    "vscode": "^1.84.0"
   },
   "categories": [
     "Themes"
@@ -14,7 +14,7 @@
       {
         "label": "Cosmos",
         "uiTheme": "vs-dark",
-        "path": "./themes/Cosmos-color-theme.json"
+        "path": "./themes/cosmos-color-theme.json"
       }
     ]
   }
